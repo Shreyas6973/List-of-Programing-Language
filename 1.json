@@ -2,17 +2,16 @@
     {
       "Name": "C",
       "Author" : "Dennis Ritchie",
-        "History": "Published: 1978,It was created in the 1970s by Dennis Ritchie",
-        "About": "In 1978, Brian Kernighan and Dennis Ritchie published the first edition of The C Programming Language."
+      "History": "Published: 1978,It was created in the 1970s by Dennis Ritchie",
+      "About": "In 1978, Brian Kernighan and Dennis Ritchie published the first edition of The C Programming Language."
                
       
     },
     {
       "Name": "C++",
       "Author" : "Bjarne Stroustrup",
-      
-        "History": "Published: 1985,1985: The first official reference guide for the C++ programming language is published.",
-        "About": "C++ is a cross-platform language that can be used to create high-performance applications."
+      "History": "Published: 1985,1985: The first official reference guide for the C++ programming language is published.",
+      "About": "C++ is a cross-platform language that can be used to create high-performance applications."
       
     }    
   ]  
