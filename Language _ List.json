@@ -32,17 +32,17 @@
       "History": "It has gained popularity among many IT companies from last years",
       "About": "Among data scientists it is famous due to its performnace and agility",
     },
-    {
-      "Name": "Brainfuck",
-      "Author" : "Urban Müller",
-      "History": "It has cult following",
-      "About": "Notable for its extreme minimalism, the language consists of only eight simple commands",
-    },
     
    {
       "Name": "Java",
       "Author" : "James Gosling",
       "History": "Java was created at Sun Microsystems, Inc., where James Gosling led a team of researchers in an effort to create a new language that would allow consumer electronic devices to communicate with each other. ",
       "About": "Java is a programming language and computing platform first released by Sun Microsystems in 1995.",
+    }
+    {
+      "Name": "JSFuck",
+      "Author" : "Yosuke Hasegawa",
+      "History": "In 2010 Yosuke created JSFuck to assert dominance over JS",
+      "About": "JSFuck can be used to bypass detection of malicious code submitted on websites. Cool !!",
     }
   ]  
