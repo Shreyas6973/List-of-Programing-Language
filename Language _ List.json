@@ -26,10 +26,17 @@
       "History": "Lisp was originally created as a practical mathematical notation for computer programs, influenced by (though not originally derived from) the notation of Alonzo Church's lambda calculus. It quickly became the favored programming language for artificial intelligence (AI) research.",
       "About": "Lisp, an acronym for list processing, is a functional programming language that was designed for easy manipulation of data strings. As one of the oldest programming languages still in use, Lisp offers several different dialects and has influenced the development of other languages.",
     },
-    {
+   {
+      "Name": "Go",
+      "Author" : "JoCVn McCarthy",
+      "History": "It has gained popularity among many IT companies from last years",
+      "About": "Among data scientists it is famous due to its performnace and agility",
+    },
+    
+   {
       "Name": "Java",
       "Author" : "James Gosling",
       "History": "Java was created at Sun Microsystems, Inc., where James Gosling led a team of researchers in an effort to create a new language that would allow consumer electronic devices to communicate with each other. ",
       "About": "Java is a programming language and computing platform first released by Sun Microsystems in 1995.",
-    },
+    }
   ]  
