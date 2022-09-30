@@ -38,11 +38,17 @@
       "Author" : "James Gosling",
       "History": "Java was created at Sun Microsystems, Inc., where James Gosling led a team of researchers in an effort to create a new language that would allow consumer electronic devices to communicate with each other. ",
       "About": "Java is a programming language and computing platform first released by Sun Microsystems in 1995.",
-    }
+    },
     {
       "Name": "JSFuck",
       "Author" : "Yosuke Hasegawa",
       "History": "In 2010 Yosuke created JSFuck to assert dominance over JS",
       "About": "JSFuck can be used to bypass detection of malicious code submitted on websites. Cool !!",
-    }
+    },
+    {
+      "Name" : "COBOL",
+      "Author" : "Grace Hopper",
+      "History" : "It was created as part of a US Department of Defense effort to create a portable programming language for data processing.",
+      "About" : "COBOL is Common Business Oriented Language",
+    },
   ]  
