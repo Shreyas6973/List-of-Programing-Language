@@ -20,4 +20,10 @@
       "History": "Published: 1991: Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected.",
       "About": "It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
     },
+    {
+      "Name": "Lisp",
+      "Author" : "John McCarthy",
+      "History": "Lisp was originally created as a practical mathematical notation for computer programs, influenced by (though not originally derived from) the notation of Alonzo Church's lambda calculus. It quickly became the favored programming language for artificial intelligence (AI) research.",
+      "About": "Lisp, an acronym for list processing, is a functional programming language that was designed for easy manipulation of data strings. As one of the oldest programming languages still in use, Lisp offers several different dialects and has influenced the development of other languages.",
+    },
   ]  
